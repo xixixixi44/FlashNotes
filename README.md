@@ -1,19 +1,20 @@
 # FlashNotes
 
-A fast and intuitive note-taking application for macOS designed for quick capture and organization of ideas.
+<img src="FlashNotes/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-128.png" alt="FlashNotes Logo" width="80" height="80"/>
+
+A fast and intuitive note-taking application for macOS designed for quick capture and organization of ideas through flashcard-style review.
 
 ## Features
 
 - **Quick Capture**: Instantly jot down notes with minimal friction
+- **Carousel Mode**: Automatically cycle through your notes in a randomized flashcard style
 - **Markdown Support**: Format your notes with simple markdown syntax
-- **Smart Organization**: Automatically categorize and tag your notes
-- **Sync Across Devices**: Keep your notes in sync via iCloud
 - **Dark Mode Support**: Comfortable viewing in any lighting condition
-- **Keyboard Shortcuts**: Power user features for efficient workflow
+- **Multilingual**: Supports English and Simplified Chinese, automatically detects system language
 
-## Development Status
+## Screenshots
 
-This project is currently in active development. See the [project board](https://github.com/xixixixi44/FlashNotes/projects) for current progress.
+![FlashNotes Main Interface](docs/screenshot1.png)
 
 ## Requirements
 
@@ -22,12 +23,6 @@ This project is currently in active development. See the [project board](https:/
 - Swift 5.5+
 
 ## Installation
-
-Currently in development, not yet available for general installation.
-
-## For Developers
-
-### Getting Started
 
 1. Clone the repository
    ```bash
@@ -42,31 +37,22 @@ Currently in development, not yet available for general installation.
 
 3. Build and run the application
 
-### Development Workflow
+## Usage
 
-We follow a structured development workflow:
+- Click the **+** button to add a new note
+- Use the **Play** button to start automatically cycling through your notes
+- Notes will appear in a random order to help with review and information retention
+- The interface automatically adapts to your system's dark/light mode preference
+- Change the application language in the Settings menu
 
-1. **Issues**: All features and bugs are tracked as GitHub issues
-2. **Branches**: Development happens in feature branches
-   - `feature/xxx` for new features
-   - `bugfix/xxx` for bug fixes
-3. **Pull Requests**: All code changes require a PR and code review
-4. **Versioning**: We use semantic versioning (MAJOR.MINOR.PATCH)
+## Dependencies
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for more detailed information.
+- [MarkdownUI](https://github.com/gonzalezreal/swift-markdown-ui) - For rendering Markdown content
 
-## Project Roadmap
+## Development
 
-- v0.1.0: Basic note taking functionality
-- v0.2.0: Markdown support
-- v0.3.0: Tags and categories
-- v0.4.0: iCloud sync
-- v1.0.0: Initial public release
+See [CONTRIBUTING.md](CONTRIBUTING.md) for information on how to contribute to this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or suggestions, please [open an issue](https://github.com/xixixixi44/FlashNotes/issues/new) on this repository.
