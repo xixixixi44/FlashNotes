@@ -1,6 +1,6 @@
 # FlashNotes
 
-<img src="FlashNotes/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-128.png" alt="FlashNotes Logo" width="80" height="80"/>
+<img src="docs/icon.png" alt="FlashNotes Logo" width="80" height="80"/>
 
 A fast and intuitive note-taking application for macOS designed for quick capture and organization of ideas through flashcard-style review.
 
@@ -14,7 +14,7 @@ A fast and intuitive note-taking application for macOS designed for quick captur
 
 ## Screenshots
 
-![FlashNotes Main Interface](docs/screenshot1.png)
+![FlashNotes Main Interface](docs/screenshot.png)
 
 ## Requirements
 
@@ -48,10 +48,6 @@ A fast and intuitive note-taking application for macOS designed for quick captur
 ## Dependencies
 
 - [MarkdownUI](https://github.com/gonzalezreal/swift-markdown-ui) - For rendering Markdown content
-
-## Development
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for information on how to contribute to this project.
 
 ## License
 
