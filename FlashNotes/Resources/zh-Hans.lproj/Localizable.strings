@@ -1,0 +1,38 @@
+/* About menu item */
+"about" = "关于 FlashNotes";
+
+/* Application tagline */
+"tagline" = "一个快速直观的笔记应用";
+
+/* Settings menu */
+"settings" = "设置";
+
+/* Preferences menu item */
+"preferences" = "偏好设置";
+
+/* Language menu */
+"language" = "语言";
+
+/* New note button */
+"newNote" = "新建笔记";
+
+/* Save button */
+"save" = "保存";
+
+/* Cancel button */
+"cancel" = "取消";
+
+/* Title field */
+"title" = "标题";
+
+/* Content field */
+"content" = "内容";
+
+/* Card color selection */
+"cardColor" = "卡片颜色";
+
+/* No notes message */
+"noNotes" = "还没有笔记";
+
+/* Add first note button */
+"addFirstNote" = "添加第一条笔记";

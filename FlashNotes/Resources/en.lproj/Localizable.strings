@@ -1,0 +1,38 @@
+/* About menu item */
+"about" = "About FlashNotes";
+
+/* Application tagline */
+"tagline" = "A fast and intuitive note-taking application";
+
+/* Settings menu */
+"settings" = "Settings";
+
+/* Preferences menu item */
+"preferences" = "Preferences";
+
+/* Language menu */
+"language" = "Language";
+
+/* New note button */
+"newNote" = "New Note";
+
+/* Save button */
+"save" = "Save";
+
+/* Cancel button */
+"cancel" = "Cancel";
+
+/* Title field */
+"title" = "Title";
+
+/* Content field */
+"content" = "Content";
+
+/* Card color selection */
+"cardColor" = "Card Color";
+
+/* No notes message */
+"noNotes" = "No notes yet";
+
+/* Add first note button */
+"addFirstNote" = "Add your first note";
