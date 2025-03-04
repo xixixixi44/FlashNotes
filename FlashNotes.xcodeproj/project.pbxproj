@@ -1,0 +1,37 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F1111C1A2B9F1D11001B1D1D /* FlashNotesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1111C192B9F1D11001B1D1D /* FlashNotesApp.swift */; };
+		F1111C1C2B9F1D11001B1D1D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1111C1B2B9F1D11001B1D1D /* ContentView.swift */; };
+		F1111C1E2B9F1D13001B1D1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1111C1D2B9F1D13001B1D1D /* Assets.xcassets */; };
+		F1111C212B9F1D13001B1D1D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1111C202B9F1D13001B1D1D /* Preview Assets.xcassets */; };
+		F1111C2C2B9F1D13001B1D1D /* FlashNotesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1111C2B2B9F1D13001B1D1D /* FlashNotesTests.swift */; };
+		F1111C362B9F1D13001B1D1D /* FlashNotesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1111C352B9F1D13001B1D1D /* FlashNotesUITests.swift */; };
+		F1111C382B9F1D13001B1D1D /* FlashNotesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1111C372B9F1D13001B1D1D /* FlashNotesUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F1111C282B9F1D13001B1D1D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F1111C0E2B9F1D11001B1D1D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F1111C152B9F1D11001B1D1D;
+			remoteInfo = FlashNotes;
+		};
+		F1111C322B9F1D13001B1D1D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F1111C0E2B9F1D11001B1D1D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F1111C152B9F1D11001B1D1D;
+			remoteInfo = FlashNotes;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F1111C162B9F1D11001B1D1D /* FlashNotes.app */ = {isa
